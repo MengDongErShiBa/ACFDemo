@@ -1,0 +1,20 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "5.7",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		},
+		{
+			"Name": "AscentCombatFramework",
+			"Enabled": true,
+			"MarketplaceURL": "https://www.fab.com/listings/cc258205-8fcf-41e5-9b48-6ec44e46d7eb"
+		}
+	]
+}
